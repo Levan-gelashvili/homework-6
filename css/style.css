@@ -1,0 +1,255 @@
+body{
+    background: #F1F1F1;
+}
+header{
+    height: 40px;
+    position: fixed;
+    top: 0px;
+    width: 100%;
+    background: #F1F1F1;
+    z-index: 3;
+}
+
+
+.container{
+    width: 1170px;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+.hm{
+    color: #000;
+    font-family: Roboto;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    display: inline-block;
+}
+.ds{
+    margin-left: 35px;
+    color: #000;
+    font-family: Roboto;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    display: inline-block;
+}
+.po{
+    margin-left: 35px;
+    color: #000;
+    font-family: Roboto;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    display: inline-block;
+}
+.co{
+    margin-left: 35px;
+    color: #000;
+    font-family: Roboto;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    display: inline-block;
+}
+.sp{
+    margin-left: 30px;
+    display: inline-block;
+    vertical-align: middle;
+}
+.tr{
+    margin-top: 62px;
+    color: #000;
+    font-family: Roboto;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.div1{
+    margin-top: 27px;
+    position: relative;
+    border-radius: 5px 5px 5px 5px;
+    background: #FFF;
+    display: inline-block;
+    height: 357px;
+}
+.divt{
+    margin-top: 68px;
+    margin-left: 37px;
+    color: #8A8787;
+    font-family: Roboto;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.clo{
+    display: inline-block;
+    margin-left: 40px;
+    margin-top: 11px;
+}
+.am{
+    display: inline-block;
+    margin-left: 11px;
+    color: #8A8787;
+    font-family: Roboto;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.div2{
+    margin-left: 30px;
+    vertical-align: top;
+    margin-top: 27px;
+    position: relative;
+    border-radius: 5px 5px 5px 5px;
+    background: #FFF;
+    display: inline-block;
+    height: 357px;
+}
+.div3{
+    margin-left: 30px;
+    vertical-align: top;
+    margin-top: 27px;
+    position: relative;
+    border-radius: 5px 5px 5px 5px;
+    background: #FFF;
+    display: inline-block;
+    height: 357px;
+}
+.dlr{
+    position: absolute;
+    color: #FFF;
+    font-family: Roboto;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: 35px;
+    margin-left: 41px;
+}
+.hn{
+    margin-top: 57px;
+    margin-bottom: 30px;
+    color: #000;
+    font-family: Roboto;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+.moun{
+    margin-top: 42px;
+}
+.brg{
+    position: relative;
+    z-index: 1;
+}
+.brgp{
+    position: absolute;
+    padding-top: 203px;
+    padding-left: 278px;
+    color: #FFF;
+    font-family: Roboto;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    z-index: 2;
+}
+.hpn1{
+    width: 758px;
+    display: inline-block;
+}
+.hpn2{
+    width: 362px;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 45px;
+}
+.ele{
+    margin-top: 98px;
+    margin-bottom: 103px;
+}
+.ft{
+    width: 100%;
+    height: 201px;
+    background: #243043;
+    margin-top: 36px;
+}
+.dv1{
+    padding-left: 137px;
+    padding-top: 59px;
+    color: #818687;
+    font-family: Roboto;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    display: inline-block;
+}
+.dis{
+    margin-top: 21px;
+    margin-bottom: 14px;
+}
+.pho{
+    margin-bottom: 14px;
+}
+.dv2{
+    padding-left: 75px;
+    padding-top: 59px;
+    color: #818687;
+    font-family: Roboto;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    display: inline-block;
+    vertical-align: top;
+}
+.help{
+    margin-top: 14px;
+    margin-bottom: 14px;
+}
+.ter{
+    margin-bottom: 14px;
+}
+.dv3{
+    padding-left: 100px;
+    padding-top: 59px;
+    color: #818687;
+    font-family: Roboto;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    display: inline-block;
+}
+.ad{
+    margin-top: 14px;
+    margin-bottom: 14px;
+}
+.int{
+    margin-bottom: 14px;
+}
+.sty{
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 600px;
+    color: #FFF;
+    font-family: Roboto;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.geo{
+    background: url(<path-to-image>) lightgray 50% / cover no-repeat;
+    display: inline-block;
+    margin-left: 1000px;
+}
